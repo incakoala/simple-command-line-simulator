@@ -1,0 +1,13 @@
+loadm 2
+loadm 1
+add
+storm 4
+loadm 1
+loadm 3
+sub
+storm 5
+loadm 5
+loadm 4
+mul
+inc
+storm 0
