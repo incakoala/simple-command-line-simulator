@@ -1,2 +1,5 @@
-0 0 51 23 
-0 0 0 0 0 0 0 0 0 0 0 0 42 0 11 0 
+loadi 100
+prtrs
+run test.txt
+quit
+echo hello
